@@ -21,7 +21,7 @@
 <!-- Introduction -->
 <div>
     <p>
-        Bienvenue sur mon GitHub ! Je m'appelle Akambi Nabil LAWANI. Je suis actuellement ingénieur réseau spécialisé Cisco. Ce qui m'a poussé dans la tech c'est le développement web, mais par la suite je me suis intéressé au réseau. La mise en place d’architecture correcte pour faciliter la communication dans un réseau est ce que j'aime vraiment faire. Plus loin je m’intéresse à la programmation réseau pour développer des solutions réseau et à la cybersécurité. Bien sûr la base de tout ça c'est le réseau. Donc je vais étape par étape en partageant avec vous mon parcours mon expérience.
+        Bienvenue sur mon GitHub ! Je m'appelle Akambi Nabil LAWANI. Je suis actuellement ingénieur réseau spécialisé Cisco. J'aime tout ce qui touche à la communication réseau. La mise en place d’architecture correcte pour faciliter la communication dans un réseau est ce que j'aime vraiment faire. Plus loin je m’intéresse à la programmation réseau pour développer des solutions réseau et à la cybersécurité. Bien sûr la base de tout ça c'est le réseau. Donc je vais étape par étape en partageant avec vous mon parcours mon expérience.
     </p>
 </div>
 
