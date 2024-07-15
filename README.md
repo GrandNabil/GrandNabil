@@ -21,7 +21,7 @@
 <!-- Introduction -->
 <div>
     <p>
-        Bienvenue sur mon GitHub ! Je m'appelle Akambi Nabil LAWANI. Je suis administrateur système et réseau.Qu'est ce que je fais sur github ? Je m'intéresse aussi au développement web avec django que je présente majoritairement. En réseau j'ai décidé de me spécialisé en cybersécurité. En fin de compte je développe mes comptétences avec pour objectif d'être ingénieur sécurité et développeur python/django. Je vous présente ici mes projets, mes articles et d'autres tralalala. hahahaha je suis drôle aussi0
+        Bienvenue sur mon GitHub ! Je m'appelle Akambi Nabil LAWANI. Je suis administrateur système et réseau.Qu'est ce que je fais sur github ? Je m'intéresse aussi au développement web avec django que je présente majoritairement. En réseau j'ai décidé de me spécialisé en cybersécurité. En fin de compte je développe mes comptétences avec pour objectif d'être ingénieur sécurité et développeur python/django. Je vous présente ici mes projets, mes articles et d'autres tralalala. hahahaha je suis drôle aussi 😁😁😁😁
     </p>
 </div>
 
@@ -29,11 +29,11 @@
 <hr>
 
 <ul>
-    <li>☁️Je travaille actuellement en tant qu'assistant d'un professeur</li>
-    <li>📘Je prépare actuellement mon examen CCNA</li>
-    <li>🎓Je suis inscrit en Master Sécurité Informatique</li>
-    <li>💻J'apprends l'algorithme et les structures de données pour être meilleur en programmation</li>
-    <li>📊Je m'intéresse à l'analyse de données à mes heures perdues</li>
+    <li>☁️Je suis administrateur système et réseau en quête de nouvelle expérience</li>
+    <li>📊Je développe des projets web qui m'intéressent avec django</li>
+    <li>🎓Je compte terminer mon Master en cours du soir</li>
+    <li>📘Je compose mon examen de Cyberops en octobre prochain</li>
+    <li>💻J'apprends l'algorithme et les structures de données pour être meilleur en programmation. Je peux vous conseiller mon livre😁</li>
 </ul>
 <hr>
 
