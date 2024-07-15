@@ -31,7 +31,7 @@
 <ul>
     <li>☁️Je suis administrateur système et réseau en quête de nouvelle expérience</li>
     <li>📊Je développe des projets web qui m'intéressent avec django</li>
-    <li>🎓Je compte terminer mon Master en cours du soir</li>
+    <li>🎓Master en cours du soir</li>
     <li>📘Je compose mon examen de Cyberops en octobre prochain</li>
     <li>💻J'apprends l'algorithme et les structures de données pour être meilleur en programmation. Je peux vous conseiller mon livre😁</li>
 </ul>
