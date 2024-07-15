@@ -21,7 +21,7 @@
 <!-- Introduction -->
 <div>
     <p>
-        Bienvenue sur mon GitHub ! Je m'appelle Akambi Nabil LAWANI. Je suis actuellement ingénieur réseau spécialisé Cisco. J'aime tout ce qui touche à la communication réseau. La mise en place d’architecture correcte pour faciliter la communication dans un réseau est ce que j'aime vraiment faire. Plus loin je m’intéresse à la programmation réseau pour développer des solutions réseau et à la cybersécurité. Bien sûr la base de tout ça c'est le réseau. Donc je vais étape par étape en partageant avec vous mon parcours mon expérience.
+        Bienvenue sur mon GitHub ! Je m'appelle Akambi Nabil LAWANI. Je suis administrateur système et réseau.Qu'est ce que je fais sur github ? Je m'intéresse aussi au développement web avec django que je présente majoritairement. En réseau j'ai décidé de me spécialisé en cybersécurité. En fin de compte je développe mes comptétences avec pour objectif d'être ingénieur sécurité et développeur python/django. Je vous présente ici mes projets, mes articles et d'autres tralalala. hahahaha je suis drôle aussi0
     </p>
 </div>
 
