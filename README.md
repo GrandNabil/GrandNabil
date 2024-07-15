@@ -24,9 +24,8 @@
         Bienvenue sur mon GitHub ! Je m'appelle Akambi Nabil LAWANI. Je suis administrateur système et réseau.Qu'est ce que je fais sur github ? Je m'intéresse aussi au développement web avec django que je présente majoritairement. En réseau j'ai décidé de me spécialisé en cybersécurité. En fin de compte je développe mes comptétences avec pour objectif d'être ingénieur sécurité et développeur python/django. Je vous présente ici mes projets, mes articles et d'autres tralalala. hahahaha je suis drôle aussi 😁😁😁😁
     </p>
 </div>
-
-### 👤À propos de moi
 <hr>
+### 👤À propos de moi
 
 <ul>
     <li>☁️Je suis administrateur système et réseau en quête de nouvelle expérience</li>
