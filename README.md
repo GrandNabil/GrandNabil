@@ -31,8 +31,8 @@
 <ul>
     <li>☁️Je suis administrateur système et réseau toujours en quête de nouvelle expérience</li>
     <li>📊Je développe des projets web qui m'intéressent avec django</li>
-    <li>🎓 </li>
-    <li>📘 </li>
+    <li></li>
+    <li></li>
     <li>💻Je me tourne toujours vers l'algorithme et les structures de données pour être meilleur en programmation. Je peux vous conseiller mon livre😁</li>
 </ul>
 
